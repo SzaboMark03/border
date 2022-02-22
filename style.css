@@ -1,0 +1,19 @@
+div{
+    padding-top: 6mm;
+    padding-bottom: 6mm;
+    border: 5pt burlywood dotted;
+}
+
+
+
+p{
+    text-align: justify;
+    background-color: cornsilk;
+    padding: 3mm;
+    padding-bottom: 2mm;
+    padding-top: 2mm;
+    margin-right:  6mm; ;
+    margin-left: 6mm;
+    
+
+}
